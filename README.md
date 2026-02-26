@@ -20,7 +20,7 @@ To understand dataset structure and visualize relationships between variables.
 ## Objective
 To predict whether a loan applicant will be approved based on financial and personal details.
 
-## Dataset Features
+## Dataset Features 
 - Age
 - Income
 - Credit_Score
