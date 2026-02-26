@@ -1,4 +1,4 @@
-# data-analytics-internship-tasks
+
 # Task 2: Credit Risk Prediction
 
 ## Objective
